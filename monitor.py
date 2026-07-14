@@ -33,6 +33,7 @@ HANDLES = [
     "ux-20-starter-glory-valkyrie-lf",
     "beyblade-x-cx-17-random-booster-10",
     "full-set-beyblade-x-cx-17-random-booster-vol-10",
+    "cx-10-wolf-hunt-f0-60db",
 ]
 
 # How long this job runs before exiting, and how often it polls.
