@@ -34,6 +34,13 @@ HANDLES = [
     "beyblade-x-cx-17-random-booster-10",
     "full-set-beyblade-x-cx-17-random-booster-vol-10",
     "cx-10-wolf-hunt-f0-60db",
+    "cx-00-evangelion-deck-set",
+    "bx-49-dranstrike-4-50ff",
+    "cx-18-random-booster-brachiowhip-ow5-70nr",
+    "bx-50-heaven-ring-random-booster-vol-11",
+    "pre-order-takara-tomy-beyblade-x-april-release-starter-beyblade-bundle",
+    "takara-tomy-beyblade-x-ux-16-clockmirage",
+    "ux-19-bulletgriffon-h",
 ]
 
 # How long this job runs before exiting, and how often it polls.
