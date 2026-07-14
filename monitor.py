@@ -45,7 +45,7 @@ HANDLES = [
 
 # How long this job runs before exiting, and how often it polls.
 RUN_SECONDS = int(os.environ.get("RUN_SECONDS", 3300))   # 55 min
-POLL_SECONDS = int(os.environ.get("POLL_SECONDS", 60))   # 1 min
+POLL_SECONDS = int(os.environ.get("POLL_SECONDS", 120))   # 2 min
 
 STATE_FILE = pathlib.Path("state.json")
 
